@@ -1,4 +1,4 @@
-import { globalStyles } from '@/styles/global'
+import { globalStyles } from '@ignite-call/styles/global'
 import type { AppProps } from 'next/app'
 
 globalStyles()
